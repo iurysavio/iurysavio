@@ -2,7 +2,7 @@
 
 Hi, I'm Iury 🤙
 
-🔍 Data Analyst | Transitioning to Data Scientist 🚀<br>
+🔍 Data Analyst | Data Scientist <br>
 💻 Sharing my work, personal experience and my learning journey:
   - MLOps ⚙️
   - NLP 🧠
