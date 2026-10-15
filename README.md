@@ -1,50 +1,30 @@
 # Hi, I'm Iury 👋
 
-### Analytics Engineer | Senior Data Analyst
+**Analytics Engineer working with SQL, Python, and dbt.**
 
-Based in **Fortaleza, Brazil**, I turn raw data into reliable models, useful metrics, and insights for Marketing and Product teams. My experience spans analytics engineering, business intelligence, experimentation, and applied data science.
+I build data models, analytical datasets, and metrics for Marketing and Product teams. My background combines analytics engineering, business intelligence, and applied data science.
 
-I'm currently an **Analytics Engineer at Flutter Brazil**, working on acquisition attribution, customer journeys, and the analytical foundations behind marketing and product decisions.
+This GitHub is my space for personal projects, experiments, and technical notes.
 
-[LinkedIn](https://www.linkedin.com/in/iurysaviopinheiro/) · [GitHub](https://github.com/iurysavio)
+## What I work with
 
-## What I work on
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
-- **Analytics engineering:** data modeling, ETL/ELT, dbt models, data quality tests, and documentation.
-- **Product & Marketing Analytics:** acquisition attribution, customer lifecycle analysis, segmentation, and measurement of engagement and financial performance.
-- **Business intelligence:** SQL optimization, analytical datasets, KPIs, and Power BI dashboards.
-- **Experimentation & applied AI:** A/B testing, hypothesis testing, predictive modeling, NLP, and RAG.
+- **Analytics engineering:** SQL, dbt, PySpark, data modeling, testing, and documentation.
+- **Data platforms:** Databricks, AWS, Snowflake, and Azure Databricks.
+- **Analytics:** acquisition attribution, customer journeys, experimentation, and Power BI.
+- **Applied AI:** machine learning, NLP, and RAG.
 
-## Selected impact
+## Currently exploring
 
-- **Acquisition attribution — Flutter Brazil:** developed and implemented an attribution model that expanded tracking coverage from **40% to 95%** of platform users.
-- **MarTech analytics — Flutter Brazil:** built the foundational analytical layer for the Brazilian operation, turning raw data into datasets for marketing and customer lifecycle analysis.
-- **Dashboard performance — NTT DATA:** redesigned the source SQL data model and performed most of the optimization work for a global executive dashboard, reducing refresh time from **46 minutes to under 4 minutes**.
-- **Experimentation — Programmers / Zé Delivery:** designed and analyzed A/B tests, defined KPIs, and built customer segments to evaluate communication strategies.
-- **Applied AI — NTT DATA:** contributed to prompt design in a RAG initiative that reduced a business process turnaround time from **two weeks to two days**.
+LLM agents, their development workflows, and how they can support practical data applications.
 
-## Tools & technologies
+---
 
-| Area | Technologies |
-| --- | --- |
-| Languages & transformation | SQL, Python, dbt, PySpark |
-| Data platforms | Databricks, Azure Databricks, Snowflake |
-| AWS | S3, Athena, Redshift, Bedrock |
-| BI & analytics | Power BI, data modeling, A/B testing, hypothesis testing |
-| Applied data science | scikit-learn, machine learning, NLP, RAG |
-| Development | GitHub, Databricks Asset Bundles, Databricks Apps |
-
-## Experience & background
-
-- **Flutter Brazil** — Analytics Engineer, since June 2025.
-- **Programmers – Beyond IT** — Data Scientist in Marketing Analytics, consulting for Ambev / Zé Delivery.
-- **NTT DATA Europe & Latam** — Data Analyst, Senior Data Analyst, and Data Scientist.
-- Earlier experience in business intelligence, process engineering, and operational excellence across consumer goods and manufacturing.
-
-I hold a **Bachelor's degree in Mechanical Engineering from Universidade Federal do Ceará (UFC)**. That background shapes how I approach data: understand the problem, model the system, and measure the result.
-
-## Let's connect
-
-I'm open to **international remote opportunities from Brazil** in data analytics and analytics engineering.
-
-Find me on [LinkedIn](https://www.linkedin.com/in/iurysaviopinheiro/).
+📍 Fortaleza, Brazil  
+💼 Analytics Engineer at Flutter Brazil  
+🔗 [Find me on LinkedIn](https://www.linkedin.com/in/iurysaviopinheiro/)
